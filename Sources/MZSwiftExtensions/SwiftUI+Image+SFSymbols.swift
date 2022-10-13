@@ -1,6 +1,9 @@
 import SwiftUI
 
 public extension Image {
+    static let arrowUpAndDownName = "arrow.up.arrow.down"
+    static let arrowUpAndDown = Image(systemName: Self.arrowUpAndDownName)
+
     static let checkmarkName = "checkmark"
     static let checkmark = Image(systemName: Self.checkmarkName)
 

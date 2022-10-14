@@ -1,3 +1,6 @@
+#if os(macOS)
+#else
+
 import SwiftUI
 
 public extension Image {
@@ -29,3 +32,5 @@ public extension Image {
     static let squareAndPencil = Image(systemName: Self.squareAndPencilName)
 
 }
+
+#endif

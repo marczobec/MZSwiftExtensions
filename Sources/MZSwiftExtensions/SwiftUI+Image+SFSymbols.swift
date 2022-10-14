@@ -10,8 +10,8 @@ public extension Image {
     static let checkmarkCircleName = "checkmark.circle"
     static let checkmarkCircle = Image(systemName: Self.checkmarkCircleName)
 
-    static let exclamationmarkTriangleName = "exclamationmark.triangle"
-    static let exclamationmarkTriangle = Image(systemName: Self.exclamationmarkTriangleName)
+    static let exclamationMarkTriangleName = "exclamationmark.triangle"
+    static let exclamationMarkTriangle = Image(systemName: Self.exclamationMarkTriangleName)
 
     static let houseName = "house"
     static let house = Image(systemName: Self.houseName)

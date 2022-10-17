@@ -19,8 +19,14 @@ public extension Image {
     static let houseName = "house"
     static let house = Image(systemName: Self.houseName)
 
+    static let iCloudAndArrowUpName = "icloud.and.arrow.up"
+    static let iCloudAndArrowUp = Image(systemName: Self.iCloudAndArrowUpName)
+
     static let listBulletName = "list.bullet"
     static let listBullet = Image(systemName: Self.listBulletName)
+
+    static let person3Name = "person.3"
+    static let person3 = Image(systemName: Self.person3Name)
 
     static let plusName = "plus"
     static let plus = Image(systemName: Self.plusName)

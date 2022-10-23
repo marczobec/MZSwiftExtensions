@@ -7,6 +7,9 @@ public extension Image {
     static let arrowUpAndDownName = "arrow.up.arrow.down"
     static let arrowUpAndDown = Image(systemName: arrowUpAndDownName)
 
+    static let chartLineUptrendXYAxisName = "chart.line.uptrend.xyaxis"
+    static let chartLineUptrendXYAxis = Image(systemName: chartLineUptrendXYAxisName)
+
     static let checkmarkName = "checkmark"
     static let checkmark = Image(systemName: checkmarkName)
 
@@ -15,6 +18,12 @@ public extension Image {
 
     static let exclamationMarkTriangleName = "exclamationmark.triangle"
     static let exclamationMarkTriangle = Image(systemName: exclamationMarkTriangleName)
+
+    static let folderName = "folder"
+    static let folder = Image(systemName: folderName)
+
+    static let folderFillName = "folder.fill"
+    static let folderFill = Image(systemName: folderFillName)
 
     static let gearName = "gear"
     static let gear = Image(systemName: gearName)
@@ -37,6 +46,9 @@ public extension Image {
     static let listBulletName = "list.bullet"
     static let listBullet = Image(systemName: listBulletName)
 
+    static let magnifyingGlassName = "magnifyingglass"
+    static let magnifyingGlass = Image(systemName: magnifyingGlassName)
+
     static let person3Name = "person.3"
     static let person3 = Image(systemName: person3Name)
 
@@ -48,6 +60,12 @@ public extension Image {
 
     static let squareAndPencilName = "square.and.pencil"
     static let squareAndPencil = Image(systemName: squareAndPencilName)
+
+    static let trayName = "tray"
+    static let tray = Image(systemName: trayName)
+
+    static let trayFillName = "tray.fill"
+    static let trayFill = Image(systemName: trayFillName)
 
 }
 

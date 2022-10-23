@@ -16,6 +16,15 @@ public extension Image {
     static let exclamationMarkTriangleName = "exclamationmark.triangle"
     static let exclamationMarkTriangle = Image(systemName: exclamationMarkTriangleName)
 
+    static let gearName = "gear"
+    static let gear = Image(systemName: gearName)
+
+    static let gearShapeName = "gearshape"
+    static let gearShape = Image(systemName: gearShapeName)
+
+    static let gearShapeFillName = "gearshape.fill"
+    static let gearShapeFill = Image(systemName: gearShapeFillName)
+
     static let houseName = "house"
     static let house = Image(systemName: houseName)
 

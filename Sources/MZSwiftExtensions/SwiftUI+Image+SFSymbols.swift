@@ -67,6 +67,21 @@ public extension Image {
     static let trayFillName = "tray.fill"
     static let trayFill = Image(systemName: trayFillName)
 
+    static let xmarkName = "xmark"
+    static let xmark = Image(systemName: xmarkName)
+
+    static let xmarkCircleName = "xmark.circle"
+    static let xmarkCircle = Image(systemName: xmarkCircleName)
+
+    static let xmarkCircleFillName = "xmark.circle.fill"
+    static let xmarkCircleFill = Image(systemName: xmarkCircleFillName)
+
+    static let xmarkSquareName = "xmark.square"
+    static let xmarkSquare = Image(systemName: xmarkSquareName)
+
+    static let xmarkSquareFillName = "xmark.square.fill"
+    static let xmarkSquareFill = Image(systemName: xmarkSquareFillName)
+
 }
 
 #endif

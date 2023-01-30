@@ -55,6 +55,24 @@ public extension Image {
     static let plusName = "plus"
     static let plus = Image(systemName: plusName)
 
+    static let plusAppName = "plus.app"
+    static let plusApp = Image(systemName: plusAppName)
+
+    static let plusAppFillName = "plus.app.fill"
+    static let plusAppFill = Image(systemName: plusAppFillName)
+
+    static let plusCircleName = "plus.circle"
+    static let plusCircle = Image(systemName: plusCircleName)
+
+    static let plusCircleFillName = "plus.circle.fill"
+    static let plusCircleFill = Image(systemName: plusCircleFillName)
+
+    static let plusSquareName = "plus.square"
+    static let plusSquare = Image(systemName: plusSquareName)
+
+    static let plusSquareFillName = "plus.square.fill"
+    static let plusSquareFill = Image(systemName: plusSquareFillName)
+
     static let rosetteName = "rosette"
     static let rosette = Image(systemName: rosetteName)
 
